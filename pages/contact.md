@@ -1,9 +1,11 @@
 ---
 layout: layouts/contact.njk
-title: Get in touch
-metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
+title: Submit an Inquiry or Schedule an Appointment
+metaDescription: This is a sample meta description. If one is not present in
+  your page/post's front matter, the default metadata.desciption will be used
+  instead.
 section: contact
-date: 2018-01-01
+date: 2022-01-25T17:32:52.734Z
 permalink: /contact/index.html
 eleventyNavigation:
   key: Contact
