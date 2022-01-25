@@ -1,33 +1,56 @@
 ---
-title: About us
-metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
+title: " "
+metaDescription: This is a sample meta description. If one is not present in
+  your page/post's front matter, the default metadata.desciption will be used
+  instead.
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+### I am not an attorney. 
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+### I cannot prepare, draft, select, or make any determination regarding any legal documents.
 
-## Our services
+### I cannot give advice in relation to any legal documents or matters.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+[The California courts have an excellent tool to assist with finding you a lawyer](https://www.courts.ca.gov/selfhelp-findlawyer.htm?rdeLocaleAttr=en), if that is what you need. 
 
-### Blue-sky thinking
+> "California notaries public are **prohibited** from performing any duties that may be construed as the practice of law. 
+>
+> Among the acts which constitute the practice of law are the preparation, drafting, or selection or determination of the kind of any legal document, or giving advice in relation to any legal documents or matters. If asked to perform such tasks, a California notary public should decline and refer the requester to an attorney." 
+>
+> *Notary Public Handbook*, California Secretary of State (2021).  
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+[](https://www.courts.ca.gov/selfhelp-findlawyer.htm?rdeLocaleAttr=en)
 
-#### Management frameworks
+As a Notary Public for the State of California, I am licensed to identify the signers of documents and record that process. 
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+* Acknowledgments
+* Oaths/Affirmations (Administering an Oath or Affirmation to One Person)
+* Jurats
+* Certified Copies of Power of Attorney
+* Immigration Forms
+* Voting Materials
+* Veteran's Benefits
 
-##### Regulatory convergence
+#### Methods of Identification
 
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+
+
+#### Certified Copies
+
+Certifed Copies
+A notary public may only certify copies of powers of attorney under Probate Code section
+4307 and his or her notary public journal. (Government Code sections 8205(a)(4), 8205(b)(1),
+and 8206(e))
+Certifed copies of birth, fetal death, death, and marriage records may be made only by the
+State Registrar, by duly appointed and acting local registrars during their term of offce, and
+by county recorders. (Health & Safety Code section 103545)
+
+#### Correcting a Notarial Act
+
+
+There are no provisions in the law that allow for the correction of a completed notarial act.
+If a notary public discovers an error in a notarial act after completing the act, then the notary public should notarize the signature on the document again. All requirements for notarization are required for the new notarial act, including completing and attaching a new certificate containing the date of the new notarial act and completing a new journal entry.
