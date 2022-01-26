@@ -15,6 +15,6 @@ Hi! Thank you for supporting my small business.
 
 To ensure a rapid response, please include (1) a short description of what you need, (2) when you are available, (3) the best way to contact you to follow up. 
 
-If you know the name of the documents you are seeking to notarize, please include the name of the document.
+Additionally, if possible, please specify the type of document you are seeking to have notarized.
 
-Thank you! I look forward to speaking with you.
+Thank you! I look forward to signing with you.
