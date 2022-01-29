@@ -14,13 +14,11 @@ As a Notary Public for the State of California, I am licensed to identify the si
 **AVAILABILITY (By Appointment)**
 
 <table>
-<thead>
-  <tr>
-    <th>Monday</th>
-    <th>CLOSED</th>
-  </tr>
-</thead>
 <tbody>
+  <tr>
+    <td>Monday</td>
+    <td>CLOSED</td>
+  </tr>
   <tr>
     <td>Tuesday<br></td>
     <td>CLOSED</td>
