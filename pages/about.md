@@ -13,15 +13,40 @@ As a Notary Public for the State of California, I am licensed to identify the si
 
 **AVAILABILITY (By Appointment)**
 
-> **Wednesday** &nbsp; 6:00 pm - 11:59 pm
->
-> **Thursday**  &nbsp; 6:00 pm - 11:59 pm
->
-> **Friday** &ensp; 6:00 pm - 11:59 pm
->
-> **Saturday** &ensp; 24 hours
->
-> **Sunday** &ensp; 24 hours
+<table>
+<thead>
+  <tr>
+    <th>Monday</th>
+    <th>CLOSED</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Tuesday<br></td>
+    <td>CLOSED</td>
+  </tr>
+  <tr>
+    <td>Wednesday</td>
+    <td>6:00 pm - 11:59 pm</td>
+  </tr>
+  <tr>
+    <td>Thursday</td>
+    <td>6:00 pm - 11:59 pm</td>
+  </tr>
+  <tr>
+    <td>Friday</td>
+    <td>6:00 pm - until</td>
+  </tr>
+  <tr>
+    <td>Saturday</td>
+    <td>24 hours</td>
+  </tr>
+  <tr>
+    <td>Sunday</td>
+    <td>24 hours</td>
+  </tr>
+</tbody>
+</table>
 
 **PRICING**
 
