@@ -17,30 +17,37 @@ As a Notary Public for the State of California, I am licensed to identify the si
 <tbody>
   <tr>
     <td>Monday</td>
+    <td></td>
     <td>CLOSED</td>
   </tr>
   <tr>
     <td>Tuesday<br></td>
+    <td></td>
     <td>CLOSED</td>
   </tr>
   <tr>
     <td>Wednesday</td>
+    <td></td>
     <td>6:00 pm - 11:59 pm</td>
   </tr>
   <tr>
     <td>Thursday</td>
+    <td></td>
     <td>6:00 pm - 11:59 pm</td>
   </tr>
   <tr>
     <td>Friday</td>
+    <td></td>
     <td>6:00 pm - until</td>
   </tr>
   <tr>
     <td>Saturday</td>
+    <td></td>
     <td>24 hours</td>
   </tr>
   <tr>
     <td>Sunday</td>
+    <td></td>
     <td>24 hours</td>
   </tr>
 </tbody>
