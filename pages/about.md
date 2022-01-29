@@ -16,37 +16,37 @@ As a Notary Public for the State of California, I am licensed to identify the si
 <table>
 <tbody>
   <tr>
-    <td>Monday</td>
+    <td>**Monday**</td>
     <td></td>
     <td>CLOSED</td>
   </tr>
   <tr>
-    <td>Tuesday<br></td>
+    <td>**Tuesday**<br></td>
     <td></td>
     <td>CLOSED</td>
   </tr>
   <tr>
-    <td>Wednesday</td>
+    <td>**Wednesday**</td>
     <td></td>
     <td>6:00 pm - 11:59 pm</td>
   </tr>
   <tr>
-    <td>Thursday</td>
+    <td>**Thursday**</td>
     <td></td>
     <td>6:00 pm - 11:59 pm</td>
   </tr>
   <tr>
-    <td>Friday</td>
+    <td>**Friday**</td>
     <td></td>
     <td>6:00 pm - until</td>
   </tr>
   <tr>
-    <td>Saturday</td>
+    <td>**Saturday**</td>
     <td></td>
     <td>24 hours</td>
   </tr>
   <tr>
-    <td>Sunday</td>
+    <td>**Sunday**</td>
     <td></td>
     <td>24 hours</td>
   </tr>
@@ -72,7 +72,7 @@ Travel is not included in the following pricing.
 > **$0.00**
 
 **TRAVEL FEES**
->
+
 > **NO TRAVEL CHARGE WITHIN TWO MILES OF 90804**
 >
 > **\*Insert a travel charge calculator\***
@@ -95,8 +95,6 @@ Travel is not included in the following pricing.
 #### Correcting a Notarial Act
 
 "There are no provisions in the law that allow for the correction of a completed notarial act. If a notary public discovers an error in a notarial act after completing the act, then the notary public should notarize the signature on the document again. All requirements for notarization are required for the new notarial act, including  completing and attaching a new certificate containing the date of the new notarial act and completing a new journal entry."
-
-
 
 /**REAL ESTATE LOAN DOCUMENTS** (price includes travel and printing two sets of documents)
 
