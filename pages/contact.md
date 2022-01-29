@@ -18,3 +18,44 @@ To ensure a rapid response, please include (1) a short description of what you n
 If possible, please specify <a href="/blog">the type of document</a> you are seeking to have notarized.
 
 Thank you! I look forward to signing with you.
+
+**AVAILABILITY (by appointment only)**
+<table>
+<tbody>
+  <tr>
+    <td>Monday</td>
+    <td></td>
+    <td>CLOSED</td>
+  </tr>
+  <tr>
+    <td>Tuesday<br></td>
+    <td></td>
+    <td>CLOSED</td>
+  </tr>
+  <tr>
+    <td>Wednesday</td>
+    <td></td>
+    <td>6:00 pm - 11:59 pm</td>
+  </tr>
+  <tr>
+    <td>Thursday</td>
+    <td></td>
+    <td>6:00 pm - 11:59 pm</td>
+  </tr>
+  <tr>
+    <td>Friday</td>
+    <td></td>
+    <td>6:00 pm - until</td>
+  </tr>
+  <tr>
+    <td>Saturday</td>
+    <td></td>
+    <td>24 hours</td>
+  </tr>
+  <tr>
+    <td>Sunday</td>
+    <td></td>
+    <td>24 hours</td>
+  </tr>
+</tbody>
+</table>
