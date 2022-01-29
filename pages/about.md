@@ -25,19 +25,23 @@ As a Notary Public for the State of California, I am licensed to identify the si
 
 **PRICING**
 
-> **$15**
+Travel is not included in the following pricing.
+
+> **$15** per signature for general notary services (acknowledgment
 >
-> **$15**
+> **$15** per oath for oaths and affirmations
 >
-> **$15**
+> **$15** per notarization of a copy of power of attorney
 >
-> **$15**
+> **$15** per notarization of immigration forms
 >
 > **$15**
 >
 > **$0.00**
 >
 > **$0.00**
+
+**TRAVEL FEES**
 >
 > **NO TRAVEL CHARGE WITHIN TWO MILES OF 90804**
 >
@@ -64,7 +68,7 @@ As a Notary Public for the State of California, I am licensed to identify the si
 
 
 
-**REAL ESTATE LOAN DOCUMENTS** (price includes travel and printing two sets of documents)
+/**REAL ESTATE LOAN DOCUMENTS** (price includes travel and printing two sets of documents)
 
 * Cash Deals: $100-$150
 * Seller Package: $150+
