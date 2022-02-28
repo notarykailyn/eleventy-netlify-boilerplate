@@ -7,6 +7,8 @@ eleventyNavigation:
   key: home
   order: 0
 ---
+CALL OR TEXT (213) 320-6682 FOR AVAILABILITY
+
 #### My name is Kailyn Elizabeth Bridwell. I am a California Notary Public. Please have a look through my website to learn a little more about me.
 
 > "California notaries public are prohibited from performing any duties that may be construed as the practice of law. 
